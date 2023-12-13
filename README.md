@@ -1,1 +1,2 @@
 # Comparative-analysis-of-ML-models-for-detection-of-Parkinsons-disease-
+This study investigates the efficacy of various machine learning algorithms and enhancement strategies in improving the diagnostic accuracy for Parkinson's disease. We commenced with baseline models, including ID3, CART, and logistic regression classifiers, and evaluated their performance through standard metrics such as accuracy, precision, recall, and F1 score
